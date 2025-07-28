@@ -1,6 +1,6 @@
 # 👋 Welcome to CodeClip!
 
-CodeClip은 디자인 중심의 기술 스타트업으로, 마감 할인 예약 플랫폼 **Lastly**, 탄소 감축 서비스 **Eco-Bridge**, 커스터마이징 키보드 서비스 **Keebit** 등을 개발하고 있습니다.
+CodeClip은 디자인 중심의 기술 스타트업으로, 마감 할인 예약 플랫폼 **Lastly** 개발하고 있습니다.
 
 ---
 
