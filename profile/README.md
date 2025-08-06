@@ -31,8 +31,8 @@ CodeClip은 디자인 중심의 기술 스타트업으로, 마감 할인 예약 
 **🔹 사용자(User)
 
 **🔹 사용자(User)**  
-- 🌐 Web: [`sumtong-client-flutter`](https://github.com/codeclip-inc/sumtong-client-flutter)  
-- 📱 Mobile (Flutter): [`sumtong-client-owner-flutter`](https://github.com/codeclip-inc/sumtong-client-owner-flutter)
+- 🌐 Web: [`sumtong-client-user-next`](https://github.com/codeclip-inc/sumtong-client-user-next)  
+- 📱 Mobile (Flutter): [`sumtong-client-flutter`](https://github.com/codeclip-inc/sumtong-client-flutter)
 
 **⚙️ 어드민(Admin)**  
 - 🌐 Web: [`sumtong-client-owner-flutter`](https://github.com/codeclip-inc/sumtong-client-owner-flutter)  
