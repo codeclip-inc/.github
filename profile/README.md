@@ -8,11 +8,11 @@ CodeClip은 디자인 중심의 기술 스타트업으로, 마감 할인 예약 
 
 **🔹 사용자(User)**  
 - 🌐 Web: [`lastly-client-user-react`](https://github.com/codeclip-inc/lastly-client-user-react)  
-- 📱 Mobile (React Native): [`lastly-client-user-rn`](https://github.com/codeclip-inc/lastly-client-user-rn)
+- 📱 Mobile (Flutter): [`lastly-client-user-flutter`](https://github.com/codeclip-inc/lastly-client-user-flutter)
 
 **🔸 점주(Owner)**  
 - 🌐 Web: [`lastly-client-owner-react`](https://github.com/codeclip-inc/lastly-client-owner-react)  
-- 📱 Mobile (React Native): [`lastly-client-owner-rn`](https://github.com/codeclip-inc/lastly-client-owner-rn)
+- 📱 Mobile (Flutter): [`lastly-client-owner-flutter`](https://github.com/codeclip-inc/lastly-client-owner-flutter)
 
 **⚙️ 어드민(Admin)**  
 - 🌐 Web: [`lastly-client-admin-react`](https://github.com/codeclip-inc/lastly-client-admin-react)
