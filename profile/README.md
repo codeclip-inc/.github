@@ -4,7 +4,7 @@ CodeClip은 디자인 중심의 기술 스타트업으로, 마감 할인 예약 
 
 ---
 
-## 🥡 Lastly — 마감 할인 음식 예약 플랫폼
+## 🥡 Last Eats — 마감 할인 음식 예약 플랫폼
 
 **🔹 사용자(User)**  
 - 🌐 Web: [`lastly-client-user-react`](https://github.com/codeclip-inc/lastly-client-user-react)  
