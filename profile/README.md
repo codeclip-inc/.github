@@ -21,7 +21,7 @@ CodeClip은 디자인 중심의 기술 스타트업으로, 마감 할인 예약 
 - 🦋 NestJS 백엔드: [`lastly-server-nest`](https://github.com/codeclip-inc/lastly-server-nest)  
 - 🧩 NodeJS API (레거시): [`lastly-server-node`](https://github.com/codeclip-inc/lastly-server-node)
 
-- 🌐 공통 웹사이트 (마케팅/랜딩): lastly.kr-client-react
+- 🌐 공통 웹사이트 (마케팅/랜딩): [`lastly.kr-client-react`](https://github.com/codeclip-inc/lastly.kr-client-react)  
 
 ---
 
